@@ -1,8 +1,8 @@
 # rideMe
 
-Ride sharing app for CSCI485 project
+Ride sharing app for CSCI485 project.
 
-Can be viewed at https://rideme-app.herokuapp.com/ 
+The report highlighting the details of this project can be viewed at [RideMe Final Report.pdf](RideMe Final Report.pdf)
 
 The directory of this project is the following:
 
