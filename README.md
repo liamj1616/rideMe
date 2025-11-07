@@ -2,7 +2,7 @@
 
 Ride sharing app for CSCI485 project.
 
-The report highlighting the details of this project can be viewed at !["RideMe Final Report.pdf"]("RideMe Final Report.pdf")
+The report highlighting the details of this project can be viewed at ![RideMe_Final_Report.pdf](RideMe_Final_Report.pdf)
 
 The directory of this project is the following:
 
